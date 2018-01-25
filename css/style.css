@@ -1,4 +1,4 @@
-.body1 {
+body {
 	background-color:grey;
 	Margin:0 auto;}
 h2{
@@ -9,13 +9,13 @@ h2{
 	width:100px;
 	height:100px;
 	padding:20px;
-	background-color:gold;
+	background-color:red;
 	}
 
 .caja2{
 	width:100px;
 	height:100px;
 	padding:20px;
-	background-color:pink;}
+	background-color:tomato;}
 
 
